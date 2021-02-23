@@ -61,3 +61,10 @@ body {
  .button:hover {
      font-weight: bold;
  }
+
+/* Implement responsive layout */
+@media screen and (max-width: 513px) {
+    .button {
+        padding: 10px;
+    }
+}
