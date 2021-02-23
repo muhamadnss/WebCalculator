@@ -56,3 +56,8 @@ body {
     padding: 30px;
     margin-top: 20px;
  }
+
+ /* Implement a hover style for each button */
+ .button:hover {
+     font-weight: bold;
+ }
